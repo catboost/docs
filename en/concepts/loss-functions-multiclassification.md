@@ -80,7 +80,7 @@ The formula depends on the value of the {{ loss-functions__params__average__name
 
 $\frac{\sum\limits_{i=1}^{M} w_{i} F1_{i}}{\sum\limits_{i=1}^{M}w_{i}} {, where}$
 
-$w_{i}$ is the sum of the weights of the documents which correspond to the k class. If document weights are not specified $w_{i}$ stands for the number of times the k class, which corresponds to the i-th object, is found among the label values.
+$w_{i}$ is the sum of the weights of the documents which correspond to the i-th class. If document weights are not specified $w_{i}$ stands for the number of times the i-th class is found among the label values.
 
 #### {{ loss-functions__params__average__Macro }}
 
@@ -111,7 +111,7 @@ Possible values:
 
 $\frac{\sum\limits_{i=1}^{M} w_{i} F1_{i}}{\sum\limits_{i=1}^{M}w_{i}} {, where}$
 
-$w_{i}$ is the sum of the weights of the documents which correspond to the k class. If document weights are not specified $w_{i}$ stands for the number of times the k class, which corresponds to the i-th object, is found among the label values.
+$w_{i}$ is the sum of the weights of the documents which correspond to the i-th class. If document weights are not specified $w_{i}$ stands for the number of times the i-th class is found among the label values.
 
 #### {{ loss-functions__params__average__Macro }}
 
