@@ -435,14 +435,10 @@ See the [{{ error-function__PFound }}](../references/pfound.md) section for mor
 
 - The probability of search continuation after reaching the current object.
 
-    The probability of search continuation after reaching the current object.
-
 
     {{ ph__loss-functions__default }}{{ fit__decay__pfound }}
 
 - The number of top samples in a group that are used to calculate the ranking metric. Top samples are either the samples with the largest approx values or the ones with the lowest target values if approx values are the same.
-
-    The number of top samples in a group that are used to calculate the ranking metric. Top samples are either the samples with the largest approx values or the ones with the lowest target values if approx values are the same.
 
 
     {{ loss-functions__params__top__default }}
@@ -472,21 +468,15 @@ See the [{{ error-function__ndcg }}](../references/ndcg.md) section for more de
 
 - The number of top samples in a group that are used to calculate the ranking metric. Top samples are either the samples with the largest approx values or the ones with the lowest target values if approx values are the same.
 
-    The number of top samples in a group that are used to calculate the ranking metric. Top samples are either the samples with the largest approx values or the ones with the lowest target values if approx values are the same.
-
 
     {{ loss-functions__params__top__default }}
 
 - Metric calculation principles.<br/><br/>Possible values:<br/>- {{ error-function__ndcg__type__Base }}<br/>- {{ error-function__ndcg__type__Exp }}
 
-    Metric calculation principles.<br/><br/>Possible values:<br/>- {{ error-function__ndcg__type__Base }}<br/>- {{ error-function__ndcg__type__Exp }}
-
 
     {{ error-function__ndcg__type__default }}
 
 - Metric denominator type.<br/><br/>Possible values:<br/>- {{ error-function__ndcg__denominator__LogPosition }}<br/>- {{ error-function__ndcg__denominator__Position }}
-
-    Metric denominator type.<br/><br/>Possible values:<br/>- {{ error-function__ndcg__denominator__LogPosition }}<br/>- {{ error-function__ndcg__denominator__Position }}
 
 
     {{ error-function__ndcg__denominator__default }}
@@ -517,21 +507,15 @@ See the [{{ error-function__ndcg }}](../references/ndcg.md) section for more de
 
 - The number of top samples in a group that are used to calculate the ranking metric. Top samples are either the samples with the largest approx values or the ones with the lowest target values if approx values are the same.
 
-    The number of top samples in a group that are used to calculate the ranking metric. Top samples are either the samples with the largest approx values or the ones with the lowest target values if approx values are the same.
-
 
     {{ loss-functions__params__top__default }}
 
 - Metric calculation principles.<br/><br/>Possible values:<br/>- {{ error-function__ndcg__type__Base }}<br/>- {{ error-function__ndcg__type__Exp }}
 
-    Metric calculation principles.<br/><br/>Possible values:<br/>- {{ error-function__ndcg__type__Base }}<br/>- {{ error-function__ndcg__type__Exp }}
-
 
     {{ error-function__dcg__type__default }}
 
 - Metric denominator type.<br/><br/>Possible values:<br/>- {{ error-function__ndcg__denominator__LogPosition }}<br/>- {{ error-function__ndcg__denominator__Position }}
-
-    Metric denominator type.<br/><br/>Possible values:<br/>- {{ error-function__ndcg__denominator__LogPosition }}<br/>- {{ error-function__ndcg__denominator__Position }}
 
 
     {{ error-function__dcg__denominator__default }}
