@@ -905,6 +905,7 @@
   "en/concepts/python-reference_pool_set_timestamp.md":"catboost/docs/en/concepts/python-reference_pool_set_timestamp.md",
   "en/concepts/python-reference_pool_set_weight.md":"catboost/docs/en/concepts/python-reference_pool_set_weight.md",
   "en/concepts/python-reference_pool_slice.md":"catboost/docs/en/concepts/python-reference_pool_slice.md",
+  "en/concepts/python-reference_sample_gaussian_process.md":"catboost/docs/en/concepts/python-reference_sample_gaussian_process.md",
   "en/concepts/python-reference_save_quantization_borders.md":"catboost/docs/en/concepts/python-reference_save_quantization_borders.md",
   "en/concepts/python-reference_sum_models.md":"catboost/docs/en/concepts/python-reference_sum_models.md",
   "en/concepts/python-reference_to_classifier.md":"catboost/docs/en/concepts/python-reference_to_classifier.md",
