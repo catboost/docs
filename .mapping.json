@@ -621,6 +621,7 @@
   "en/concepts/build-from-source.md":"catboost/docs/en/concepts/build-from-source.md",
   "en/concepts/c-plus-plus-api.md":"catboost/docs/en/concepts/c-plus-plus-api.md",
   "en/concepts/c-plus-plus-api_applycatboostmodel.md":"catboost/docs/en/concepts/c-plus-plus-api_applycatboostmodel.md",
+  "en/concepts/c-plus-plus-api_carrying_model.md":"catboost/docs/en/concepts/c-plus-plus-api_carrying_model.md",
   "en/concepts/c-plus-plus-api_dynamic-c-pluplus-wrapper.md":"catboost/docs/en/concepts/c-plus-plus-api_dynamic-c-pluplus-wrapper.md",
   "en/concepts/c-plus-plus-api_header-only-evaluator.md":"catboost/docs/en/concepts/c-plus-plus-api_header-only-evaluator.md",
   "en/concepts/cli-distributed-learning.md":"catboost/docs/en/concepts/cli-distributed-learning.md",
