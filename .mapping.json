@@ -1041,6 +1041,7 @@
   "en/installation/cli-installation-local-copy-installation.md":"catboost/docs/en/installation/cli-installation-local-copy-installation.md",
   "en/installation/cli-installation-make-install.md":"catboost/docs/en/installation/cli-installation-make-install.md",
   "en/installation/cli-installation-multi-node-installation.md":"catboost/docs/en/installation/cli-installation-multi-node-installation.md",
+  "en/installation/java-installation-build-from-source-maven.md":"catboost/docs/en/installation/java-installation-build-from-source-maven.md",
   "en/installation/python-installation-additional-data-visualization-packages.md":"catboost/docs/en/installation/python-installation-additional-data-visualization-packages.md",
   "en/installation/python-installation-method-build-a-wheel-package.md":"catboost/docs/en/installation/python-installation-method-build-a-wheel-package.md",
   "en/installation/python-installation-method-build-from-source-linux-macos-using-ya-make.md":"catboost/docs/en/installation/python-installation-method-build-from-source-linux-macos-using-ya-make.md",
