@@ -614,6 +614,7 @@
   "en/concepts/algorithm-missing-values-processing.md":"catboost/docs/en/concepts/algorithm-missing-values-processing.md",
   "en/concepts/algorithm-score-functions.md":"catboost/docs/en/concepts/algorithm-score-functions.md",
   "en/concepts/apply-dotnet.md":"catboost/docs/en/concepts/apply-dotnet.md",
+  "en/concepts/apply-node-js.md":"catboost/docs/en/concepts/apply-node-js.md",
   "en/concepts/apply-onnx-ml.md":"catboost/docs/en/concepts/apply-onnx-ml.md",
   "en/concepts/apply-pmml.md":"catboost/docs/en/concepts/apply-pmml.md",
   "en/concepts/apply-rust.md":"catboost/docs/en/concepts/apply-rust.md",
