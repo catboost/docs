@@ -608,6 +608,7 @@
   "en/concepts/algorithm-main-stages_bootstrap-options.md":"catboost/docs/en/concepts/algorithm-main-stages_bootstrap-options.md",
   "en/concepts/algorithm-main-stages_cat-to-numberic.md":"catboost/docs/en/concepts/algorithm-main-stages_cat-to-numberic.md",
   "en/concepts/algorithm-main-stages_choose-tree-structure.md":"catboost/docs/en/concepts/algorithm-main-stages_choose-tree-structure.md",
+  "en/concepts/algorithm-main-stages_embedding-to-numeric.md":"catboost/docs/en/concepts/algorithm-main-stages_embedding-to-numeric.md",
   "en/concepts/algorithm-main-stages_fighting-biases.md":"catboost/docs/en/concepts/algorithm-main-stages_fighting-biases.md",
   "en/concepts/algorithm-main-stages_pre-count.md":"catboost/docs/en/concepts/algorithm-main-stages_pre-count.md",
   "en/concepts/algorithm-main-stages_text-to-numeric.md":"catboost/docs/en/concepts/algorithm-main-stages_text-to-numeric.md",
