@@ -507,7 +507,6 @@
   "en/_includes/work_src/reusage/loss-function__for-multiclass.md":"catboost/docs/en/_includes/work_src/reusage/loss-function__for-multiclass.md",
   "en/_includes/work_src/reusage/monotone-constraints__formats__individually-for-required-features.md":"catboost/docs/en/_includes/work_src/reusage/monotone-constraints__formats__individually-for-required-features.md",
   "en/_includes/work_src/reusage/monotone-constraints__formats__intro.md":"catboost/docs/en/_includes/work_src/reusage/monotone-constraints__formats__intro.md",
-  "en/_includes/work_src/reusage/multiclassification-models-are-not-currently-supported-p.md":"catboost/docs/en/_includes/work_src/reusage/multiclassification-models-are-not-currently-supported-p.md",
   "en/_includes/work_src/reusage/od-pval__short-desc.md":"catboost/docs/en/_includes/work_src/reusage/od-pval__short-desc.md",
   "en/_includes/work_src/reusage/only-the-calculated-metrics-are-output.md":"catboost/docs/en/_includes/work_src/reusage/only-the-calculated-metrics-are-output.md",
   "en/_includes/work_src/reusage/ostr__desc-main-div.md":"catboost/docs/en/_includes/work_src/reusage/ostr__desc-main-div.md",
