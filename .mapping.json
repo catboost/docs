@@ -528,6 +528,8 @@
   "en/_includes/work_src/reusage/python--classifier--precedence-note.md":"catboost/docs/en/_includes/work_src/reusage/python--classifier--precedence-note.md",
   "en/_includes/work_src/reusage/python--classifier--precedence-p.md":"catboost/docs/en/_includes/work_src/reusage/python--classifier--precedence-p.md",
   "en/_includes/work_src/reusage/python--precedence.md":"catboost/docs/en/_includes/work_src/reusage/python--precedence.md",
+  "en/_includes/work_src/reusage/python--ranker--precedence-note.md":"catboost/docs/en/_includes/work_src/reusage/python--ranker--precedence-note.md",
+  "en/_includes/work_src/reusage/python--ranker--precedence-p.md":"catboost/docs/en/_includes/work_src/reusage/python--ranker--precedence-p.md",
   "en/_includes/work_src/reusage/python--regressor--precedence-note.md":"catboost/docs/en/_includes/work_src/reusage/python--regressor--precedence-note.md",
   "en/_includes/work_src/reusage/python--regressor--precedence-p.md":"catboost/docs/en/_includes/work_src/reusage/python--regressor--precedence-p.md",
   "en/_includes/work_src/reusage/python-pams-desc.md":"catboost/docs/en/_includes/work_src/reusage/python-pams-desc.md",
