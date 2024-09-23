@@ -1103,5 +1103,6 @@
   "en/references/training-parameters/visualization.md":"catboost/docs/en/references/training-parameters/visualization.md",
   "en/references/uncertainty.md":"catboost/docs/en/references/uncertainty.md",
   "en/toc.yaml":"catboost/docs/en/toc.yaml",
-  "redirects.yaml":"catboost/docs/redirects.yaml"
+  "redirects.yaml":"catboost/docs/redirects.yaml",
+  "set":"catboost/docs/set"
 }
