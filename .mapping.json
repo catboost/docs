@@ -165,6 +165,7 @@
   "en/_includes/work_src/reusage-installation/cmake-unix-makefiles-generator.md":"catboost/docs/en/_includes/work_src/reusage-installation/cmake-unix-makefiles-generator.md",
   "en/_includes/work_src/reusage-installation/cmake-visual-studio-generator.md":"catboost/docs/en/_includes/work_src/reusage-installation/cmake-visual-studio-generator.md",
   "en/_includes/work_src/reusage-installation/common-tests.md":"catboost/docs/en/_includes/work_src/reusage-installation/common-tests.md",
+  "en/_includes/work_src/reusage-installation/docker-build-env.md":"catboost/docs/en/_includes/work_src/reusage-installation/docker-build-env.md",
   "en/_includes/work_src/reusage-installation/get-source-code-from-github.md":"catboost/docs/en/_includes/work_src/reusage-installation/get-source-code-from-github.md",
   "en/_includes/work_src/reusage-installation/gpu-specific-tests.md":"catboost/docs/en/_includes/work_src/reusage-installation/gpu-specific-tests.md",
   "en/_includes/work_src/reusage-installation/gpu-support-from-the-box__p.md":"catboost/docs/en/_includes/work_src/reusage-installation/gpu-support-from-the-box__p.md",
