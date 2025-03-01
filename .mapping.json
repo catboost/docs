@@ -3,6 +3,7 @@
   "LICENSE":"catboost/github_toplevel/LICENSE",
   "README.md":"catboost/docs/README.md",
   "catboost/github_toplevel/LICENSE":"catboost/github_toplevel/LICENSE",
+  "en/":"catboost/docs/en/",
   "en/_includes/concepts/algorithm-main-stages_cat-to-numberic/schematic-view.md":"catboost/docs/en/_includes/concepts/algorithm-main-stages_cat-to-numberic/schematic-view.md",
   "en/_includes/concepts/default-value-none.md":"catboost/docs/en/_includes/concepts/default-value-none.md",
   "en/_includes/concepts/feature-interaction-strength_table.md":"catboost/docs/en/_includes/concepts/feature-interaction-strength_table.md",
