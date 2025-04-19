@@ -174,6 +174,7 @@
   "en/_includes/work_src/reusage-installation/install-data-visualization-support-package.md":"catboost/docs/en/_includes/work_src/reusage-installation/install-data-visualization-support-package.md",
   "en/_includes/work_src/reusage-installation/path-to-cuda.md":"catboost/docs/en/_includes/work_src/reusage-installation/path-to-cuda.md",
   "en/_includes/work_src/reusage-installation/python__supported-versions.md":"catboost/docs/en/_includes/work_src/reusage-installation/python__supported-versions.md",
+  "en/_includes/work_src/reusage-installation/python__user-defined-functions-dependencies.md":"catboost/docs/en/_includes/work_src/reusage-installation/python__user-defined-functions-dependencies.md",
   "en/_includes/work_src/reusage-installation/r__recommended-installation-method.md":"catboost/docs/en/_includes/work_src/reusage-installation/r__recommended-installation-method.md",
   "en/_includes/work_src/reusage-installation/r__recommended-installation-method__note.md":"catboost/docs/en/_includes/work_src/reusage-installation/r__recommended-installation-method__note.md",
   "en/_includes/work_src/reusage-installation/r__troubleshooting.md":"catboost/docs/en/_includes/work_src/reusage-installation/r__troubleshooting.md",
