@@ -23,7 +23,6 @@
   "en/_includes/work_src/reusage-cli/purpose__apply-the-model.md":"catboost/docs/en/_includes/work_src/reusage-cli/purpose__apply-the-model.md",
   "en/_includes/work_src/reusage-cli/purpose__train-the-model.md":"catboost/docs/en/_includes/work_src/reusage-cli/purpose__train-the-model.md",
   "en/_includes/work_src/reusage-cli/releases-page.md":"catboost/docs/en/_includes/work_src/reusage-cli/releases-page.md",
-  "en/_includes/work_src/reusage-code-examples/cli__binary-install-cuda.md":"catboost/docs/en/_includes/work_src/reusage-code-examples/cli__binary-install-cuda.md",
   "en/_includes/work_src/reusage-code-examples/cli__train-on-gpu__p.md":"catboost/docs/en/_includes/work_src/reusage-code-examples/cli__train-on-gpu__p.md",
   "en/_includes/work_src/reusage-code-examples/compile-the-library.md":"catboost/docs/en/_includes/work_src/reusage-code-examples/compile-the-library.md",
   "en/_includes/work_src/reusage-code-examples/compute-capability-requirements.md":"catboost/docs/en/_includes/work_src/reusage-code-examples/compute-capability-requirements.md",
