@@ -179,6 +179,7 @@
   "en/_includes/work_src/reusage-installation/r__troubleshooting.md":"catboost/docs/en/_includes/work_src/reusage-installation/r__troubleshooting.md",
   "en/_includes/work_src/reusage-installation/replace-cannonical-files.md":"catboost/docs/en/_includes/work_src/reusage-installation/replace-cannonical-files.md",
   "en/_includes/work_src/reusage-installation/setup-build-environment-alternatives.md":"catboost/docs/en/_includes/work_src/reusage-installation/setup-build-environment-alternatives.md",
+  "en/_includes/work_src/reusage-installation/spark__dep-versions.md":"catboost/docs/en/_includes/work_src/reusage-installation/spark__dep-versions.md",
   "en/_includes/work_src/reusage-installation/tip__dhave-is-optional.md":"catboost/docs/en/_includes/work_src/reusage-installation/tip__dhave-is-optional.md",
   "en/_includes/work_src/reusage-installation/turn-on-the-widgets-extension-intro.md":"catboost/docs/en/_includes/work_src/reusage-installation/turn-on-the-widgets-extension-intro.md",
   "en/_includes/work_src/reusage-installation/use-vcs-to-analyze-diff.md":"catboost/docs/en/_includes/work_src/reusage-installation/use-vcs-to-analyze-diff.md",
