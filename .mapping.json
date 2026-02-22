@@ -155,6 +155,8 @@
   "en/_includes/work_src/reusage-input-data/weight__short_desc.md":"catboost/docs/en/_includes/work_src/reusage-input-data/weight__short_desc.md",
   "en/_includes/work_src/reusage-input-data/weight__shortdesc.md":"catboost/docs/en/_includes/work_src/reusage-input-data/weight__shortdesc.md",
   "en/_includes/work_src/reusage-installation/arcadia__build-from-sources__intro.md":"catboost/docs/en/_includes/work_src/reusage-installation/arcadia__build-from-sources__intro.md",
+  "en/_includes/work_src/reusage-installation/build-cuda-architectures-note.md":"catboost/docs/en/_includes/work_src/reusage-installation/build-cuda-architectures-note.md",
+  "en/_includes/work_src/reusage-installation/build-cuda-architectures.md":"catboost/docs/en/_includes/work_src/reusage-installation/build-cuda-architectures.md",
   "en/_includes/work_src/reusage-installation/build-model-interface-shared-artifacts.md":"catboost/docs/en/_includes/work_src/reusage-installation/build-model-interface-shared-artifacts.md",
   "en/_includes/work_src/reusage-installation/build-model-interface-static-old-artifacts.md":"catboost/docs/en/_includes/work_src/reusage-installation/build-model-interface-static-old-artifacts.md",
   "en/_includes/work_src/reusage-installation/catboost-src-root.md":"catboost/docs/en/_includes/work_src/reusage-installation/catboost-src-root.md",
