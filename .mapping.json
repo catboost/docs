@@ -332,7 +332,6 @@
   "en/_includes/work_src/reusage-python/python_quantized.md":"catboost/docs/en/_includes/work_src/reusage-python/python_quantized.md",
   "en/_includes/work_src/reusage-python/save_model__div_desc.md":"catboost/docs/en/_includes/work_src/reusage-python/save_model__div_desc.md",
   "en/_includes/work_src/reusage-python/scale_and_bias__desc.md":"catboost/docs/en/_includes/work_src/reusage-python/scale_and_bias__desc.md",
-  "en/_includes/work_src/reusage-python/scikit-learn-compatibility.md":"catboost/docs/en/_includes/work_src/reusage-python/scikit-learn-compatibility.md",
   "en/_includes/work_src/reusage-python/scor__purpose.md":"catboost/docs/en/_includes/work_src/reusage-python/scor__purpose.md",
   "en/_includes/work_src/reusage-python/score__purpose.md":"catboost/docs/en/_includes/work_src/reusage-python/score__purpose.md",
   "en/_includes/work_src/reusage-python/select_decision_boundary__desc.md":"catboost/docs/en/_includes/work_src/reusage-python/select_decision_boundary__desc.md",
