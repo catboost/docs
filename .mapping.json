@@ -207,7 +207,7 @@
   "en/_includes/work_src/reusage-java/java__get-tree-count__desc.md":"catboost/docs/en/_includes/work_src/reusage-java/java__get-tree-count__desc.md",
   "en/_includes/work_src/reusage-java/java__getcategoricfeaturecount__desc.md":"catboost/docs/en/_includes/work_src/reusage-java/java__getcategoricfeaturecount__desc.md",
   "en/_includes/work_src/reusage-java/java__getnumericfeaturecount__desc.md":"catboost/docs/en/_includes/work_src/reusage-java/java__getnumericfeaturecount__desc.md",
-  "en/_includes/work_src/reusage-java/java__getpredictiondimenstion__desc.md":"catboost/docs/en/_includes/work_src/reusage-java/java__getpredictiondimenstion__desc.md",
+  "en/_includes/work_src/reusage-java/java__getpredictiondimension__desc.md":"catboost/docs/en/_includes/work_src/reusage-java/java__getpredictiondimension__desc.md",
   "en/_includes/work_src/reusage-java/java__load-model__returns.md":"catboost/docs/en/_includes/work_src/reusage-java/java__load-model__returns.md",
   "en/_includes/work_src/reusage-java/java__loadcatboost-from-file__desc.md":"catboost/docs/en/_includes/work_src/reusage-java/java__loadcatboost-from-file__desc.md",
   "en/_includes/work_src/reusage-java/java__loadcatboost-from-stream__desc.md":"catboost/docs/en/_includes/work_src/reusage-java/java__loadcatboost-from-stream__desc.md",
