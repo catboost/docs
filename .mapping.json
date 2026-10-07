@@ -309,6 +309,7 @@
   "en/_includes/work_src/reusage-python/pool__save_quantization_borders_div.md":"catboost/docs/en/_includes/work_src/reusage-python/pool__save_quantization_borders_div.md",
   "en/_includes/work_src/reusage-python/pool__save_quantization_borders_ref_to_format.md":"catboost/docs/en/_includes/work_src/reusage-python/pool__save_quantization_borders_ref_to_format.md",
   "en/_includes/work_src/reusage-python/purpose.md":"catboost/docs/en/_includes/work_src/reusage-python/purpose.md",
+  "en/_includes/work_src/reusage-python/python__callbacks.md":"catboost/docs/en/_includes/work_src/reusage-python/python__callbacks.md",
   "en/_includes/work_src/reusage-python/python__dictionary_class__description.md":"catboost/docs/en/_includes/work_src/reusage-python/python__dictionary_class__description.md",
   "en/_includes/work_src/reusage-python/python__get_all_params__catboost.md":"catboost/docs/en/_includes/work_src/reusage-python/python__get_all_params__catboost.md",
   "en/_includes/work_src/reusage-python/python__get_all_params__catboostclassifier.md":"catboost/docs/en/_includes/work_src/reusage-python/python__get_all_params__catboostclassifier.md",
